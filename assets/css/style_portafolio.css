@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(46, 71, 58);
+}
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 1rem;
+}
+h5 {
+    color: #fff;
+    font-size: 1rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+}

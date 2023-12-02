@@ -1,0 +1,38 @@
+
+body{
+    background-color: rgb(46, 71, 58);
+}
+.fotografia{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+h2 {
+    text-align: center;
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+li{
+    font-size: 1.2rem;
+    margin-left: 20px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+hr {
+    border: 3px black solid;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 1.2rem;
+}
+p {
+    color: white;
+    font-size: 1.2rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+}
+
+
+
